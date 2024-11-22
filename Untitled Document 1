@@ -1,0 +1,168 @@
+Big bang : All the units gets integrated
+cannot able to predict the error
+Stub : could not test in depth. 
+Driver : 
+Top : High level module
+bottom : Low level module.
+
+Alpha testing : Client does not able to see, internal acceptance testing.
+Beta testing : Release to the real world.
+Agile : It is able to move quickly and easily
+It is an iterative and incremental model.
+
+Iterative : Repeating
+Delivery : Deliverying part by part.
+
+Sprint : Continous timebox of lifecycle. 2 to 4 weeks
+Aggressive : 
+User story format : It is a pre simple discription of a feature or the functionality.
+Complexity : It means diffculty.
+What is sprint 0 or 0 sprint : 
+Backlog : Pending. 
+Epic : collection of user story.
+What is PB and PBI - Product backlog & product backlog item.
+RTM - Requirement Traceability Matrix.
+Pre-condition - The condition that can be met before the test case can be executed.
+Test case for milton water bottle.
+verify that the brand name is milton
+verify that the cap is black colour and the body is silver colour.
+verify that the water bottle quantity is 1 litre.
+verify that the water bottle cap is round shape.
+Verify that the water bottle is very thickness.
+Verify that the water bottle keeps warm water and hot water.
+verify that the water bottle rate is satisfied.
+Verify that the water bottle brand is Milton
+Verify that the body colour is silver
+Verify that the cap colour is black
+Verify that the 1lit of the water bottle
+Verify the bottle doesn't leak
+Verify the bottle doesn't damage
+
+Unit test is comes under white box testing.
+Structured based testing is also called as white box testing will be done by the developer only.
+White box will focus only on the application internal structure and logic.
+Specification is also called as black box they only focus on the functionality.It will be done by only developers.
+Black box testing- Giving thr input and getting the output.
+
+Types of Testing ...
+NFT : Non functional testing - Done by performance test engineer
+performance testing:
+checking the number of users is called non functional testing.
+Smoke testing :
+It describes the stages the bug or defect goes through from its discovery until its resolution that is called as bug life cycle
+
+
+Summary : The utube video is unable to open
+Description :
+	1. I have downloaded the utube in play store.
+	2. Verified and linked with my email id.
+	3. I have noticed that the video link is not opening.
+	4. Link is unavaliable.
+
+Set : Group of test cases.
+End to end testing is called as system testing. 
+Agile is a incremental and iterative model.
+customer interaction will be through out the project.
+Deliver the project through the sprint.
+IMPORTANT QUESTON : 
+What is positive and negtaive testing ?
+What is RTM ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
